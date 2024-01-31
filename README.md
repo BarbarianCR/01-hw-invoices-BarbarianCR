@@ -9,9 +9,9 @@
 
 ---
 
-### Name: Enter your name
+### Name: Braden Schneider
 
-### Email: Enter your OU email
+### Email: BS064122@ohio.edu
 
 ---
 
